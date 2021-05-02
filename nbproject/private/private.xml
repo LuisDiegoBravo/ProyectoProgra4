@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/home.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/welcome.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/app/Http/Controllers/UserController.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/roles/index.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/roles/show.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/database/seeders/PermissionTableSeeder.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/roles/create.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/Users/create.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/products/show.blade.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/routes/web.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/app/Http/Controllers/RoleController.php</file>
+            <file>file:/C:/Users/Luis%20Diego%20Bravo/Documents/Proyecto/resources/views/roles/edit.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
